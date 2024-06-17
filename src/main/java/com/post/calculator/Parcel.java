@@ -1,8 +1,8 @@
-package com.post;
+package com.post.calculator;
 
 import java.util.Arrays;
 
-class Parcel {
+public class Parcel {
     
     public static final int MM = 1;
     public static final int CM = 10;

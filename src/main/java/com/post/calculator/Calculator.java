@@ -1,4 +1,4 @@
-package com.post;
+package com.post.calculator;
 
 
 public class Calculator
